@@ -47,3 +47,4 @@ Entrar en `src/`. `cd src`
 
 Cuando se ejecute por terminal, obtendremos la siguiente dirección `* Running on local URL:  http://127.0.0.1:7860`, http://127.0.0.1:7860 es el link para entrar a la app del chatbot desde el navegador.
 
+![ChatBot Screenshot](img/appScreenshot.png)
