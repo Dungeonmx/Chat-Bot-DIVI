@@ -1,0 +1,5 @@
+ollama
+gradio
+openai-whisper
+dotenv
+elevenlabs
